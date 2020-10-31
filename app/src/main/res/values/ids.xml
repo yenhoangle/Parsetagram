@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="ivHeart" type="id" />
+    <item name="tvPostUser" type="id" />
+    <item name="ivImage" type="id" />
+    <item name="tvUser" type="id" />
+    <item name="ivUserProfile" type="id" />
+</resources>
